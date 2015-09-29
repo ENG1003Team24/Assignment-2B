@@ -1,1 +1,6 @@
-This document is for the sole use of our writing and updating our codes for Assignment 2B
+This Repository is for the sole use of our writing and updating our codes for Assignment 2B
+from the requirement we can see:
+The version submitted to Moodle must match the content on the A2B folder in your GitHub
+repository.
+The version submitted to Moodle must match the content on the A2B folder in the "master"
+branch of your GitHub repository
